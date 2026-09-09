@@ -55,6 +55,7 @@ LUFFY/
 - **Data Processing**: Batch dimension operations and tensor reshaping
 
 ## 📝 Complete TODO List
+## 📝 Complete TODO List
 
 - [x] **luffy/deepscaler/utils.py:45** - Implement OpenAI API client initialization
 - [x] **luffy/deepscaler/utils.py:46** - Add proper authentication handling
@@ -282,7 +283,6 @@ LUFFY/
 - [ ] **luffy/verl/verl/workers/sharding_manager/megatron_vllm.py:76** - after binding to the memory buffer, we can load the checkpoint here
 - [ ] **luffy/verl/verl/workers/sharding_manager/megatron_vllm.py:253** - (sgm): this may not be true for FSDP -> vLLM
 - [ ] **luffy/verl/verl/workers/sharding_manager/megatron_vllm.py:323** - (zhangchi.usc1992) We can consider copy non-tp weight to another infer buffer.
-
 ## 🤝 Contributing
 
 1. Pick a TODO item from the list above
