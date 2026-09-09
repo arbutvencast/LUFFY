@@ -55,7 +55,6 @@ LUFFY/
 - **Data Processing**: Batch dimension operations and tensor reshaping
 
 ### 📝 Complete TODO List
-### 📝 Complete TODO List
 
 - [x] **luffy/deepscaler/utils.py:45** - Implement OpenAI API client initialization
 - [x] **luffy/deepscaler/utils.py:46** - Add proper authentication handling
